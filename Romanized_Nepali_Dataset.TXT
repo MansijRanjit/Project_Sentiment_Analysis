@@ -2,8 +2,7 @@ aba
 abaddha
 abela
 aber
-aber 
-bhayo
+aber bhayo
 abhas
 abhav
 abhaya
@@ -13,7 +12,7 @@ abhinaya
 abhiprerit
 abhipret
 abhiram
-abhiruci
+abhiruchi
 abhivriddhi
 abhiyan
 abhiyog
@@ -21,42 +20,31 @@ abhiyukta
 abhrak
 abhyas
 abrak
-acamma
-acamma 
-lagnu
-acamma 
-parnu
-acanak
-acano
-acanu
-acar
-acar
-acaran
+achamma
+achanak
+achano
+ashar
 accer
 acel
 achut
 achuti
 achutoddhar
-ad
 adalat
 adambar
-adan-pradan
+adanpradan
 adarniya
-adarniya sadasya
-adarsh
-adarvaci
+adarsha
+adarbhaci
 adaunu
 adda
 adesh
 adha
-adhai baje
 adhaini
 adham
 adhar
 adharat
 adharbhut
 adharit
-adharit cha
 adharma
 adhi
 adhikar
@@ -69,13 +57,12 @@ adhiveshan
 adhogati
 adhunik
 adhyaksha
-adhyay
 adhyayan
-adi
+adhyayan
 adijati
 adikal
 adikaran
-adikavi
+adikabhi
 adikavya
 adinu
 adityavar
@@ -88,66 +75,40 @@ aduva
 advittiya
 agadha
 agadi
-agadi 
-badhaunu
-agadi 
-badhnu
-agal
-bagal
 agami
 agati
-age
-agena
+aghi
+aghina
 ageno
-aghadi
 aghat
-aghaun
 aghaunu
-aghi
-aghi 
-lagnu
-aghi 
-nai
-aghi 
-sarnu
-aghi
 aghi
 aghillo
 aghiltira
-aghi
-pachi
+aghipachi
 aghisamma
 aglo
-aglo
-aglyaunu
 agni
-agnikand
-ago
-agraha
+aago
+aggraha
 agulto
-aguva
 agya
 agyakari
 agyan
 agyat
-ahan
 ahangkar
-ahar
 ahara
-ahat
 ahile
 aimai
 ain
 aina
-aincatana
 ainselu
 aipugnu
 aitavar
 aitihasik
 aja
-aja bihana
 ajabholi
-ajakal
+ajkal
 ajan
 ajang
 ajat
@@ -159,12 +120,8 @@ akad
 akado
 akal
 akalpaniya
-akamakaunu
 akamakka
-akamakka 
-parnu
-akangksha
-akanksha
+akankshya
 akantak
 akapat
 akar
@@ -179,34 +136,29 @@ akarsan
 akartavya
 akartha
 akash
-akashe 
-tara
-marg
-akashvani
+akashwani
 akasmat
-akasmik
 akathaniya
 akathya
 akavat
-akbar
-akbare
+akabar
+akabare
 akbari
 akelo
 akhabar
 akhir
-akkal
 akkali
-akkase
+akkali
+akase
 akkasinu
 akraman
 akrista
 akriti
 aksar
-akshansh
 akshar
-aksijan
+aksygan
 alag
-alainci
+alainchi
 alangkar
 alasya
 alchi
@@ -214,28 +166,21 @@ alekha
 algyaunu
 alhad
 ali
-ali
 alikati
-alilo
 aljhanu
-aljhaunu
 alkatra
 allare
 almalaunu
 almalinu
 almari
-alocana
-alocanatmak
-alok
+alochana
+alochanatmak
 alpamat
-alsi
+alxi
 alu
-alu tachnu
 alubakhada
 am
 ama
-amai
-amaju
 amala
 amanav
 amanya
@@ -243,40 +188,30 @@ amar
 amarkosh
 amba
 amdani
-amdani 
-badhaune
 amilo
 amir
-amiri
 amkhora
-amnirvacan
+amnirvachan
 amol
 amrit
 amulya
 amurta
 an
-anadarvaci
+anadarvachi
 anadi
 analamaya
-anand
-anandi
+ananda
 ananta
 anar
 anarsa
-anashan
-anatha
-anautha
+anshan
+anath
 anautho
 anautikta
-anavarat
-anbhaunu
-ancal
-ancal adalat
-ancal nyayadhish
-ancal prashasan
-ancal sabha
-ancaladhish
-ancetnu
+anabarat
+anmaunu
+anchal
+achetnu
 anda
 andaji
 anderi
@@ -291,44 +226,24 @@ andhyaro
 andolan
 andra
 anduva
-aneka
-ang
-anga pugnu
-angabhanga
-angabhanga 
-garnu
-angacched
+anek
+anga
+angaxhed
 angalnu
 angalo
 angan
 angar
-angaraksha
 angarakshak
 angethi
-anggur
+angur
 anghi
 angikar
-angikar 
-garnu
 angikrit
-angikrit 
-nagarikta
-angikrit 
-nepali 
-nagarikta
-anginti
-angka
-angka 
-ra 
-akshar
-angka 
-ra 
-aksharle 
-bolaunu
-angkaganit
-angkamal
-angkapatra
-angkit
+anaginti
+anka
+ankamal
+ankapatra
+ankit
 angkuran
 angocha
 angrej
@@ -336,67 +251,53 @@ angreji
 angsha
 angshadan
 angshadhar
-angshako hak
 angshiyar
 angul
-anguli mudra
-anguli pratimudra
 angur
 ani
-anicchit
+anishxhit
 anikal
 anil
-anivarya
+aniwarya
 anjali
 anjuli
 anka
 ankai
 ankanaunu
 ankha
-ankhako nani
-ankhibhuin
+ankhibhue
 ankuro
 ankush
 anmaunu
 anna
-anna-bhandar
-anp
+aapa
 anshu
 ant
 anta
-anta
-anta garnu
 antai
 antar
-antaral rajya
 antardeshiya
-antardeshiya jalpath
-antardeshiya patra
-antardeshiya vanijya
-antardhvans
+antardhwas
 antargat
 antargrasta
 antarik
 antariksha
 antarmukhi
-antarrastriya
-antarrastriya kanun
+antarastriya
 antarrastriya 
 mudrakos
-antarvarta
+antarbarta
 antarvasan
 antarvasi
 antarvasit
-antarvasit garnu
 antarvirodh
-antastha desh
 anthanabbe
 anthaunna
 anthyaunu
 anti
 antim
 antis
-antnu
+atnu
 antya
 antyesti
 anubhav
@@ -405,53 +306,52 @@ anubhuti
 anudan
 anugaman
 anuhar
-anukramnika
+anukramanika
 anukul
 anuman
 anumati
 anupasthit
 anupras
 anurodh
-anurodh garnu
 anurup
 anusandhan
 anusar
 anusaran
 anushasan
-anuvad
-anuvakta
-anuvar
-anveshan
+anuwad
+anuwakta
+anuwar
+anbeshan
 anya
 anyatra
-anyaya
-apaci
+annyaya
+apachi
 apadha
 apaharan
 apanaunu
 aparadh
 aparadhi
-aparicit
+aparichit
 aparjhat
-apas
-apashoc
+aapas
+apsos
 apasma
-aphai
+aafai
 aphisar
-aphno
-aphnu
+afno
+afnu
 apil
 aprakashit
 apratyashik
-apravasi
+aprabasi
 apsara
 apurva
 arab
 arajakta
 arakshan
-aram
-arambha
-are
+aaram
+aarambha
+arey
 arini
 arje
 arko
@@ -459,14 +359,14 @@ arop
 arpanu
 artha
 arthadanda
-artha-mantri
+arthamantri
 arthashastra
 arthat
 arthik
-arthik matava
+arthik mahatwa
 arthyaunu
 arti
-aru
+aaru
 aru
 aru kohi
 arubakhada
@@ -478,13 +378,13 @@ asahamati
 asahaya
 asal
 asali
-asam
-asaman
+aasam
+aasman
 asamanta
 asamaya
 asamayik
-asambhava
-asan
+asambhav
+aasan
 asanggati
 asankhya
 asanna
@@ -492,55 +392,52 @@ asantusta
 asantusti
 asapas
 asaphal
-asar
+ashar
 asar
 asat
-ash
-asha
-ashangka
+aas
+aasa
+ashanka
 ashanti
-ashaya
-ashcarya
-ashcaryalagdo
+aasaya
+ashcharya
+ashcharyalagdo
 ashiksha
 ashikshit
-ashirvacan
-ashirvacan
+ashirwachan
 ashirvad
-ashirvad
-ashis
+aasis
 ashis dinu
 ashlil
-ashram
+aashram
 ashraya
 ashrit
 ashu
 ashuddha
 ashutos
-ashvin
+ashwin
 asi
-asima
-asimit
+ashima
+ashimit
 asoj
-aspast
-aspastata
+aspasta
 aspatal
 astaunu
-astha
+aastha
 asthipanjar
 asti
 astiko bihibar
-astitva
+astitwa
 astrashastra
 astreliya
-asuvidha
-asvabhavik
-asvasth
-asvikar
+asubidha
+aswobhawik
+aswostha
+aswikaar
 atah
-atainu
+ataenu
 atal
-atangka
+atanka
 atangkit
 ataunu
 ateri
@@ -549,7 +446,7 @@ athara
 athasi
 athaun
 athava
-athcalis
+athachalis
 athhattar
 athsatthi
 athtis
@@ -575,53 +472,53 @@ attinu
 atur
 atut
 atuva
-atyacar
+atyachar
 atyanta
 atyavashyak
 atyukti
 au
-aucitya
+auchitya
 audyogik
 aunlo
 aunlyaunu
 aunsi
 aunu
-aupacarik
-aupacarik adarvaci
+aupacharik
+aupacharik 
 ausadhipasal
 avadhi
 avahela
 avahelna
-avaj
+awaj
 avakash
 avalamban
 avalokan
 avanati
 avarodh
-avas
+awas
 avasar
-avasar paunu
+paunu
 avashya
 avashyak
 avashyakta
 avastha
 avasyakta
-avat-javat
+awatjawat
 avicchinna
-avikasit
+abikasit
 avishvas
 aviskar
-avivekpurna
-avyavastha
-ayaram gayaram
+abibekpurna
+abyabastha
+ayaramgayaram
 ayarlaind
 ayog
 ayojana
 ba
 babu
-bacaunu
+bachaunu
 bada
-bada hakim
+badahakim
 badal
 badam
 badamash
@@ -635,13 +532,13 @@ badhiya
 badhnu
 badi
 bado
-bagainca
+bagaincha
 bagbani
 baggi
 bagh
 bagha
 bagnu
-bagvani
+bagwani
 bahadur
 bahas
 bahattar
@@ -649,7 +546,7 @@ bahek
 bahini
 bahinijvain
 bahira
-bahira samet
+bahirasamet
 bahirapatti
 bahiro
 bahiskar
@@ -689,7 +586,7 @@ bali
 balika
 balistha
 baliyo
-balkrishna sama
+balkrishnasama
 balnu
 balnu
 balti
@@ -698,11 +595,11 @@ balyakal
 bamojim
 bamojit
 banaunu
-bancaro
-bancnu
+bancharo
+banchnu
 banda bhayo
 banda garnu
-bandakopi
+banda bhayo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 bandar
 bandel
 bandhan
@@ -719,7 +616,7 @@ bani
 banki
 bannu
 bans
-bansko purda
+bansko 
 bar
 bar
 bara
@@ -731,7 +628,7 @@ barkha
 barnu
 baru
 barulo
-basai sarai
+basaisarai
 basalnu
 basanta
 basaunu
@@ -740,7 +637,7 @@ basnu
 basobas
 basovas
 bata
-bata marnu
+batamarnu
 batas
 batho
 bato
@@ -756,23 +653,23 @@ bayan
 bayan
 bayanabbe
 bayasi
-becnu
+bechnu
 beglo
 behornu
 bela
 beluka
 bemajja
-benci
+benchi
 bensi
 bepar
-bepar garnu
+bepargarnu
 bepari
 ber
 berojgar
 bes
 besar
 besari
-bevasta
+bewasta
 bhada
 bhadai
 bhadau
@@ -782,7 +679,7 @@ bhado
 bhadra
 bhagnu
 bhai
-bhai-bharadar
+bhaibharadar
 bhaibuhari
 bhain
 bhainsi
@@ -792,10 +689,10 @@ bhakta
 bhaktapur
 bhakti
 bhaktiman
-bhakundo khelnu
+bhakundokhelnu
 bhala
 bhalai
-bhale mujur
+bhalemujur
 bhalu
 bhanda
 bhandakunda
@@ -806,21 +703,19 @@ bhando
 bhane
 bhangero
 bhanij
-bhanje buhari
-bhanje jvain
+bhanjebuhari
+bhanjejvain
 bhanji
 bhanjo
 bhanjyang
 bhanne
 bhansa
 bhansar
-bhanubhakta 
-acarya
+bhanubhakta acharya
 bhar
 bhar parnu
 bharadar
-bharadari 
-sabha
+bharadari sabha
 bharat
 bharatiya
 bhare
@@ -846,17 +741,13 @@ bhatijo
 bhattarak
 bhau
 bhaugolik
-bhaugolik 
-mahatva
+bhaugolik mahatva
 bhauju
 bhava
 bhavan
-bhavan 
-nirman 
-kala
+bhavan nirman kala
 bhavana
-bhavavacak 
-nam
+bhavavachak nam
 bhavya
 bhedo
 bhek
@@ -878,33 +769,28 @@ bhogdan
 bhojan
 bhojnalaya
 bhok
-bhok 
-lagnu
+bhok lagnu
 bhokaunu
 bholi
 bhote
 bhraman
 bhrasta
-bhrastacar
-bhrastacari
-bhugarbha 
-vigyan
-bhugolko 
-anusandhan
+bhrastachar
+bhrastachari
+bhugarbha vigyan
+bhugolko anusandhan
 bhuin
-bhuin
-bhuincalo
+bhuinchalo
 bhuinkatahar
 bhuja
 bhuknu
-bhuksharan
+bhu ksharan
 bhulnu
 bhumi
 bhumigat
 bhumika
 bhundi
-bhuparivestit
-desh
+bhuparivestit desh
 bhusuno
 bhutang
 bhuteko makai
@@ -915,8 +801,8 @@ bhutpurva
 bhutuva
 bhyaguto
 bhyaunu
-bic
-bicar
+bich
+bichar
 bicchi
 bigauti
 biha
@@ -926,14 +812,14 @@ bihivar
 bij
 bijaropan
 bijuli
-bikha
+bikh
 bilkul
 binti
 bintipatra
 biralo
 birami
 birta
-birtaval
+birtawal
 bis
 bitaunu
 biu
@@ -943,18 +829,18 @@ boknu
 boko
 bolaunu
 bolbala
-bolcal
-bolcalma
+bolchal
+bolchalma
 bolinu
-bolivacan
+bolibachan
 bolnu
 brihaspatibar
 brihat
 buddhi
-buddhical
+buddhichal
 buddhijivi
 budha ba
-budhavar
+budhabar
 budhi ama
 budhi aunlo
 budho
@@ -964,93 +850,93 @@ bujhaunu
 bunda
 burundi
 butta
-buva
+buwa
 bvanso
 byadmintan
-cabaunu
-cadhaunu
-cadhnu
-cadnu
-caharnu
-cahinu
-cait
-caitra
-cakhaunu
-cakhnu
-cakku
-cakramarg
-cal
-calak
-calakh
-calan
-calan
-calan garnu
-calaunu
-calis
-callo
-calnu
-caltika
-camada
-camal
-camca
-camero
-camkanu
-camkaunu
-camkilo
-camsur
-canakya
-cancun
-canda
-candai
-candi
-cando
-candrama
-cangunarayan
-cap
-car
-caraitira
-caran
-caraunu
-carca
-carit
-caritra
-carkanu
-carkaunu
-carkha
-carko
-carnu
-caro
-cartarph
-cartira
-cataunu
-catnu
-caubar
-caubis
-cauda
-caudai
-caudha
-cauhattar
-cauka
-cauntis
-caupattai
-cauranabbe
-caurasi
-causatthi
-cautara
-cautariya
-cautarph
-cautho
-cavalis
-cavanna
-cavaunu
-cehara
-celi
-celibeti becvikhat
-cepang
-cetana
-cetauni
-cetavani
-cetnu
+chabaunu
+chadhaunu
+chadhnu
+chadnu
+chaharnu
+chahinu
+chait
+chaitra
+chakhaunu
+chakhnu
+chakku
+chakramarg
+chal
+chalak
+chalakh
+chalan
+chalan
+chalan garnu
+chalaunu
+chalis
+challo
+chalnu
+chaltika
+chamada
+chamal
+chamcha
+chamero
+chamkanu
+chamkaunu
+chamkilo
+chamsur
+chanakya
+chancun
+chanda
+chandai
+chandi
+chando
+chandrama
+changunarayan
+chap
+char
+charaitira
+charan
+charaunu
+charcha
+charit
+charitra
+charkanu
+charkaunu
+charkha
+charko
+charnu
+charo
+chartarph
+chartira
+chataunu
+chatnu
+chaubar
+chaubis
+chauda
+chaudai
+chaudha
+chauhattar
+chauka
+chauntis
+chaupattai
+chauranabbe
+chaurasi
+chausatthi
+chautara
+chautariya
+chautarph
+chautho
+chavalis
+chavanna
+chavaunu
+chehara
+cheli
+chelibeti becvikhat
+chepang
+chetana
+chetauni
+chetavani
+chetnu
 cha
 cha patra
 chabbis
@@ -1109,60 +995,60 @@ chuskar
 chutkara
 chutnu
 chuvachut
-cihan
-cijbij
-cikitsa
-cikitsalaya
-cil
-cimotnu
-cin
-cinari
-cinaunu
-ciniyan
-cinnu
-cinta
-cintan
-cintit
-ciplo
-cirnu
-ciso
-ciso pani
-cithi
-citra
-citta
-cittha
-citthi
-cituva
-ciundo
-ciura
-ciya
-cod-patra
-cok
-cokhinu
-cor
-cornu
-cot
-cucuro
-cuda
-cudamani
-cuhinu
-cuhunu
-culensi
-culo
-cultho
-cumnu
-cuna
-cunauti
-cunav
-cunavi
-cup lagnu
-curot
-cusnu
-cutai
-cutnu
-cyankhla
-cyatnu
-cyau
+chihan
+chijbij
+chikitsa
+chikitsalaya
+chil
+chimotnu
+chin
+chinari
+chinaunu
+chiniyan
+chinnu
+chinta
+chintan
+chintit
+chiplo
+chirnu
+chiso
+chiso pani
+chithi
+chitra
+chitta
+chittha
+chitthi
+chituva
+chiundo
+chiura
+chiya
+chod patra
+chok
+chokhinu
+chor
+chornu
+chot
+chuchuro
+chuda
+chudamani
+chuhinu
+chuhunu
+chulensi
+chulo
+chultho
+chumnu
+chuna
+chunauti
+chunav
+chunavi
+chup lagnu
+churot
+chusnu
+chutai
+chutnu
+chyankhla
+chyatnu
+chyau
 dabau
 dabi
 dadhnu
@@ -1264,7 +1150,7 @@ dhamilo
 dhamki
 dhan
 dhan
-dhanca
+dhancha
 dhandha
 dhandhali
 dhani
@@ -1284,7 +1170,7 @@ dharmadeva
 dharmadhikari
 dharmagranth
 dharmashala
-dharmavacak nam
+dharmavachak nam
 dharmik
 dharmik sthan
 dharna
@@ -1328,7 +1214,7 @@ doreto
 dori
 dosi
 dosro
-dravyavacak nam
+dravyavachak nam
 dristi
 dristikon
 dublaunu
@@ -1343,17 +1229,17 @@ duhkhi
 duhunu
 dui
 dura
-duragraha
+n
 durdarshita
 durgam
-dursancar
+dursanchar
 durvavahar
 dusti
 dut
 dvandva
 dvara
 dvija
-dvitiya purus vacak
+dvitiya purus vachak
 dvitiyardha
 dyotak
 e
@@ -1378,7 +1264,7 @@ ekanta
 ekanunna
 ekasi
 ekatira
-ekcalis
+ekchalis
 ekdam
 ekedami
 ekhattar
@@ -1402,9 +1288,7 @@ eproc
 eshiyali
 esiyayi
 euta
-euta 
-tukra 
-jagga
+euta tukra jagga
 evamastu
 evan
 gada
@@ -1413,7 +1297,7 @@ gadar
 gadda
 gaddar
 gaddar
-gaddarposh
+gaddar-posh
 gaddi
 gaddu
 gadgad
@@ -1421,11 +1305,11 @@ gadha
 gadhapaccisi
 gadinarasing
 gadnu
-gadryakgudruk
+gadryak-gudruk
 gadryamma
 gadya
-gadyakavita
-gadyakavya
+gadya-kavita
+gadya-kavya
 gagri
 gagro
 gahak
@@ -1444,7 +1328,7 @@ gair sarkari sanstha
 gairaprajatantrik
 gajar
 gala
-galainca
+galaincha
 galat
 gali
 gali
@@ -1583,7 +1467,7 @@ gunabodhak
 gundri
 gundruk
 gupta
-guptacar
+guptachar
 gupti
 guru
 gurung
@@ -1613,21 +1497,20 @@ halnu
 haluka
 haluko
 halungo
-haluva
+haluwa
 haluvabed
 hamala
 hamro
 hango
 haninu
-hanknu
+haknu
 hannu
 hans
 hansa
-hansaunu
-hanseuli
-hansilo
-hans-kukhura palan
-hanso
+hasaunu
+haseuli
+hasilo
+haso
 hanssi
 hara
 haraunu
@@ -1642,7 +1525,7 @@ hastagat
 hastakala
 hastakshar
 handwriting
-hastakshep
+hastaxhep
 hat
 hat aunu
 hat halnu
@@ -1652,16 +1535,15 @@ hatnu
 hatteri
 hatti
 hatya
-hava
-hava
-havai
-havai jahaj
-havai marg
-havai-dank
-havajahaj
+hawa
+hawai
+hawai jahaj
+hawai marg
+hawai dank
+hawaijahaj
 havan
-havapani
-havas
+hawapani
+huss
 hemanta
 hernu
 herpher
@@ -1670,15 +1552,13 @@ hijo rati
 hijoaja
 himalaya pradesh
 himarekha
-himasrot bhaeko nadi
-him-marubhumi
 hina
 hindi
-hindnu
+hidnu
 hira
 hit
 hiun
-hoco
+hocho
 hodabaji
 hosh
 hosh garnu
@@ -1690,7 +1570,7 @@ hukka
 hulak adda
 hundi
 huri
-huri calnu
+huri chalnu
 hyolmo
 iccha
 icchit
@@ -1713,7 +1593,7 @@ irada
 irsya
 irsyalu
 ishara
-ishvar
+ishwar
 iskus
 ispat
 ista
@@ -1732,16 +1612,16 @@ jagga
 jagir
 jagnu
 jahaj
-jahan
-jahan
+jaha
+jaha
 jal
 jalaunu
 jali
 jalnu
-jal-shakti
-jalvayu
-jalvayuko prabhav
-jal-vibhajak
+jal shakti
+jalawayu
+jalwayuko prabhav
+jal vibhajak
 jama
 jama
 jamaunu
@@ -1749,28 +1629,28 @@ jamin
 jamma
 jamnu
 jana
-jana-andolan
-janacetana
+jana andolan
+janachetana
 janaganana
 janai
-jana-jagaran
+jana jagaran
 janajati
 janajivan
 janakari
 janapakshiya
 janapravad
-jana-sahabhagita
+jana sahabhagita
 janasamaksha
 janasankhya
 janashruti
-janasvasthya
+janaswasthya
 janata
-janatantravad
+janatantrawad
 janatantrik
 janavad
 janavar
-janc
-jancnu
+jach
+jachnu
 jand
 jangal jamaune kam
 jangal tayar parne
@@ -1794,7 +1674,7 @@ japan
 japnu
 jarayo
 jari
-jarimana
+jariwana
 jarivana
 jaruri
 jasta
@@ -1804,12 +1684,12 @@ jasto dekhincha
 jasto sunincha
 jat
 jati
-jativacak nam
+jativachak nam
 jatiya
 jatpat
 jau
-javab
-javan
+jawab
+jawan
 javaph
 javaphdehi
 jaya
@@ -1890,7 +1770,7 @@ jutnu
 jutta
 juva
 juva khelnu
-jvain
+jwai
 jyada
 jyadai
 jyestha
@@ -1898,8 +1778,8 @@ jyotirvidya
 jyotis
 jyotisi
 kabja
-kacauro
-kachuva
+kachauro
+kachuwa
 kacinggal
 kada
 kadam
@@ -1907,23 +1787,23 @@ kadar
 kag
 kagati
 kahalaunu
-kahan
-kahan pani
+kaha
+kaha pani
 kahani
 kahile
-kahile kahin
-kahin
-kahin kahin
-kahinlo
+kahile kahi
+kahi
+kahi kahi
+kahilo
 kaid
 kaid garnu
 kaidi
 kaidkhana
 kailo
-kainyo
+kaeyo
 kaiphat
 kaiphiyat
-kaiyaun
+kayau
 kaiyun
 kaj
 kaju
@@ -1969,14 +1849,14 @@ kamnu
 kamta
 kamti
 kan
-kancat
+kanchat
 kanchi
 kancho
 kanco
-kand
+kanda
 kandha
 kandhinu
-kando
+kado
 kanggal
 kanka loti
 kankro
@@ -2011,7 +1891,7 @@ karib
 karigar
 karkhana
 karma
-karmacari
+karmachari
 karod
 kartavya
 kartik
@@ -2054,7 +1934,7 @@ kavi
 kavita
 kayam
 kayam garnu
-ke
+k
 kehi
 kehi kurako anurodh garnu
 kehi kurako mato milnu
@@ -2072,10 +1952,10 @@ keto
 keval
 khabar
 khabarkagat
-khacar
+khachar
 khada
-khadkundo
-khadukunlo
+khadkudo
+khadukulo
 khadyanna
 khagat
 khairo
@@ -2108,7 +1988,7 @@ kharani
 kharau
 kharaunu
 kharayo
-kharca
+kharcha
 kharidnu
 kharij
 khas
@@ -2123,15 +2003,15 @@ khel
 kheladi
 khelaunu
 khelnu
-kher
+khera
 kheri
 kheti
 kheti garnu
 khetikamai
-kheti-pati
-khicadi
-khicalo
-khicolo
+khetipati
+khichadi
+khichalo
+khicholo
 khir
 khoi
 khoj
@@ -2143,16 +2023,16 @@ kholo
 khopo
 khoriya
 khorsani
-khosuva
+khosuwa
 khudkila
 khukuri
-khumcinu
+khumchinu
 khunda
 khushi
 khusi
 khutrukka
 khutto
-khuvaunu
+khuwaunu
 ki
 kilakile
 kimbu
@@ -2161,7 +2041,7 @@ kinabhane
 kinamel garnu
 kinnu
 kintu
-kinvadanti
+kinwadanti
 kira
 kiraya
 kiro
@@ -2180,7 +2060,7 @@ kohi
 koila
 koili
 kop
-kop-bhajan
+kopbhajan
 kopila
 koriya
 kornu
@@ -2190,7 +2070,7 @@ koshish garnu
 kot
 kotha
 kotparva
-kotparva pashcat
+kotparva pashchat
 kotyaunu
 kram
 kramashah
@@ -2198,18 +2078,18 @@ krambodhak
 kramjor
 kranti
 krishna paksha
-krisi
+krishi
 krisi utpadan
 kritagya
 kriyakalap
 kriyapad
 kriyayogi
-kshamata
-kshetra
-kshetraphal
-kucakra
-kuco
-kucyaunu
+chyamata
+chetra
+chetraphal
+kuchakra
+kucho
+kuchyaunu
 kudnu
 kuhino
 kuhuno
@@ -2222,9 +2102,9 @@ kukur
 kul
 kumari
 kun
-kuncahin
+kunchahin
 kund
-kundnu
+kudnu
 kunni
 kuposan
 kura
@@ -2236,27 +2116,25 @@ kushal
 kushasan
 kusti
 kusti khelnu
-kutapita
+kutpit
 kutnaitik kshetra
 kutnu
 kuva
-kvartj
+kwartj
 kyare
 labh
-lacar
-ladain
+lachar
+ladai
 ladnu
-lagabhaga
-lagaeko
+lagbhag
+lagayeko
 lagani
 lagaunu
 lagayat
 laghukatha
-laghu-katha
 lagnu
 lagu
 lahad
-lahad aunu
 lahar
 lahari
 laihernu
@@ -2266,9 +2144,7 @@ lajja
 lakh
 lakkhan
 laksha
-lakshmiprasad devkota
 lakshya
-lalitpur
 lam
 lamai
 lamba
@@ -2294,9 +2170,8 @@ lek
 lekha
 lekhak
 lekhinu
-lekhnath paudyal
 lekhpadh
-leninvad
+leninwad
 licchavi
 licchavikal
 ligalige
@@ -2305,7 +2180,7 @@ likhit
 lila
 lilam
 limbu
-ling
+linga
 linu
 lipi
 lobh
@@ -2317,29 +2192,22 @@ lohota
 lok
 loktantra
 luga
-luga dhunu
-luga lagaunu
-luga launu
-luga phernu
-luga phukalnu
-luga phukaunu
 luknu
 lvang
 lyaunu
 ma
-macan
-maccinu
-macha
-macha marnu
-madat dinu
+machan
+macchinu
+maccha
+madat
 madhes
-madhya-din
+madhyadin
 madhyakalin
 madhyam
 madhyamik yug
 madhyanha
 madhyarat
-madhyavadhi nirvacan
+madhyavadhi
 madhye
 mag
 magaj
@@ -2364,11 +2232,9 @@ mahila
 mahilo
 mahima
 mahina
-mahina
 maida
 maidan
 maiju
-mailo
 mailo
 main batti
 maina
@@ -2380,15 +2246,11 @@ majhi
 majhnu
 makai
 makal
-malai man parcha
-malai man pardaina
-malai thah chaina
-malesiya
 malilo
 maltal
 mama
-man
-man aunu
+mann
+manaunu
 manadeva
 manahi
 manai
@@ -2398,13 +2260,13 @@ manaunu
 manav
 manavshastra
 manbodhak
-manc
-mancari
+manch
+manchari
 manche
 mandro
 mangal
 mangalvar
-mangga
+maga
 manglavar
 mangoliya
 mangsir
@@ -2415,7 +2277,7 @@ manoranjan
 manovigyan
 manovigyanik
 manparaunu
-mansthiti
+manasthiti
 mantavya
 mantralaya
 mantri
@@ -2424,7 +2286,7 @@ mapdanda
 maramar
 marathi
 marg
-maric
+marich
 marka
 marnu
 masala
@@ -2434,10 +2296,10 @@ masino
 mast
 mastira
 masu
-mat
+maat
 matabhed
 matako
-matganana
+matgadna
 mathi
 mathlo tala
 matnu
@@ -2455,19 +2317,19 @@ mausimi
 mausuph
 maya
 maya garnu
-mece
+meche
 meghalaya
 mehanat
 mehel
 mel
-meva
+mewa
 midiya
 mihi
 mihinet
 mihineti
 milaunu
 milnu
-mirg
+mirga
 misaunu
 misri
 mit
@@ -2479,14 +2341,14 @@ mohani
 mohi
 mohi parnu
 moja
-moren
+morena
 mosam
 motamoti
 motar
 motar haknu
 motaunu
 moto
-mrig
+mriga
 mrityu
 mrityuko danda
 mudda
@@ -2512,7 +2374,7 @@ mulatah
 mulayat
 mulsadak
 muluk
-mulvasi
+mulbasi
 mulya
 mulyangkan
 muma
@@ -2528,13 +2390,13 @@ musoko dulo
 musuro
 muthi
 mutu
-mvain
-mvain khanu
-myaun garnu
+mwai
+mwai khanu
+meow garnu
 na
 nabbe
-nac
-nacnu
+nach
+nachnu
 nadi
 nagar
 nagarik
@@ -2555,7 +2417,7 @@ nakka pora
 nakkal
 naksha
 nalikhutto
-nam
+naam
 namak
 namasthanik
 namdar
@@ -2589,7 +2451,7 @@ natini
 natishitosna
 nau
 naun
-naun caleka
+naun chaleka
 nauni
 navaun
 nayakatva
@@ -2642,11 +2504,11 @@ nirmata
 nirmit
 nirnaya
 nirogi
-nirvacan
+nirvachan
 nis
 nisedh bhumi
-nishcal
-nishcaya
+nishchal
+nishchaya
 nishcit
 nishcit 
 sankhyabodhak
@@ -2702,9 +2564,9 @@ orlinu
 osarinu
 osarnu
 oth
-pacadi
-pacas
-pacasi
+pachadi
+pachas
+pachasi
 pacchim
 paccis
 pachadi
@@ -2720,7 +2582,7 @@ pacpanna
 pad
 padadhikari
 padartha
-padarthavacak nam
+padarthavachak nam
 padavi
 padhai
 padhaunu
@@ -2734,7 +2596,7 @@ paglanu
 pahad
 pahadi pradesh
 pahenlo
-pahican
+pahichan
 pahilo
 pahiran
 pahuna
@@ -2767,15 +2629,15 @@ pana
 panati
 panc
 panc patra
-pancanabbe
-pancangga
-pancaun
-pancayat
+panchanabbe
+panchangga
+panchaun
+panchayat
 panchaunu
 pandhra
 pani
 pani
-pani 
+pani ... pani
 pani pareka vela
 pani parnu
 paniun
@@ -2810,7 +2672,7 @@ pararastra mantralaya
 pararastra mantri
 pararastriya
 paraspar
-parca
+parcha
 parda
 pardabhitrai
 pardesh
@@ -2820,8 +2682,8 @@ pareva
 pari
 pari
 paribhasa
-paricalan
-paricaya
+parichalan
+parichaya
 paricched
 pariksha
 parikshan
@@ -2848,9 +2710,7 @@ parnu
 paro
 parsi
 parti
-parti 
-kendriya
-kamiti
+parti kendriya kamiti
 parva
 parvat
 paryanta
@@ -2884,7 +2744,7 @@ patit
 patni
 patra
 patrakar
-patre cattan
+patre chattan
 patrika
 patta
 patthar
@@ -2977,10 +2837,10 @@ prabandhak
 prabhat
 prabhav
 prabhavashali
-pracalan
-pracalit
-pracar
-pracarit
+prachalan
+prachalit
+prachar
+pracharit
 pracin
 pracinta
 pradesh
@@ -3034,7 +2894,7 @@ prasiddha
 prastav
 prastavana
 prastut
-pratam purusvacak
+pratam purusvachak
 pratha
 pratham
 pratham purus
@@ -3062,7 +2922,7 @@ pratisparddha
 prativedan
 pratiyogita
 pratyek
-pravacan
+pravachan
 pravesh
 pravidhi
 pravidhigya
@@ -3089,8 +2949,8 @@ puniun
 punling
 pura
 purano
-purashcaran
-purashcarya
+purashcharan
+purashcharya
 puratatva
 puri
 purkha
@@ -3100,7 +2960,7 @@ purnataya
 purnima
 purohit
 purusartha
-purusvacak sarvanam
+purusvachak sarvanam
 purvadhar
 purvagraha
 purvak
@@ -3117,10 +2977,10 @@ pval
 pyaj
 pyaro
 pyau
-racak
-racana
-racanatmak
-racayita
+rachak
+rachana
+rachanatmak
+rachayita
 racit
 radhi
 ragat
@@ -3128,7 +2988,6 @@ ragat aunu
 rahanu
 rahar
 rahasyamaya
-rahasyamaya dhangabata
 rahat
 rai
 raithane
@@ -3140,7 +2999,6 @@ rajdarbar
 rajdhani
 rajdut
 rajdutavas
-rajhans
 rajhans
 raji
 rajikhushi
@@ -3165,7 +3023,7 @@ rajya
 rajyadhikar
 rajyavati
 rakhnu
-raksha
+rakshya
 raksi
 raktapatpurna
 rakumari
@@ -3174,9 +3032,9 @@ ramaunu
 ramnu
 ramro
 rang
-rangamanc
+rangamanch
 rangaunu
-rangicangi
+rangichangi
 rangin
 rango
 rani
@@ -3194,8 +3052,8 @@ rastriya jagaran
 rastriya rastra
 rastriyata
 rat
-rat
-rat parcha
+raat
+raat parcha
 rati
 rato
 rato mato
@@ -3203,16 +3061,16 @@ raun
 ravivar
 rayako sag
 rel
-rica
+richa
 rihai
 rijha
-rina
+rin
 rini
 ris
 risaeko
 risaunu
 risi
-riti-thiti
+riti thiti
 rittinu
 ritto
 ritu
@@ -3224,7 +3082,7 @@ rok
 rokinu
 roknu
 roti
-ruci
+ruchi
 rugha
 rugna
 runa man lagnu
@@ -3234,7 +3092,7 @@ rupantar
 rupi
 rupiyan
 ruvanda
-ruvaunu
+ruwaunu
 saba
 sabai bhanda
 sabaijaso
@@ -3246,7 +3104,7 @@ sabhyata
 sabik
 sabun
 sabunko gaj
-sabunko phinja
+sabunko phinj
 sabut
 sacetak
 saciv
@@ -3254,11 +3112,9 @@ sacivalaya
 sadak
 sadan
 sadar
-sadar 
-upatyaka
+sadar upatyaka
 sadashya
-sadashyaharuprati 
-damanniti
+sadashyaharuprati daman niti
 sadasya
 sadasyata
 sadbhavana
@@ -3266,13 +3122,12 @@ sadhain
 sadhan
 sadhana
 sadharan
-sadharansabha
+sadharan sabha
 sadhe
 sadiccha
 sadupayog
 sadyantra
-sagapat
-sagar
+saagpat
 sagar
 sagarkhand
 sagarmatha
@@ -3302,7 +3157,6 @@ sahityakar
 sahityashastra
 sahityik
 sahu
-sahu
 sahuni
 saiddhantik
 sainik
@@ -3314,12 +3168,12 @@ sajha
 sajilo
 sakali
 sakbhar
-sakesamma cando
+sakesamma chando
 saknu
 saksham
 sakshar
 saksharta
-sal
+saal
 salabalaunu
 salah
 salai
@@ -3333,7 +3187,7 @@ salinda
 sallaha
 sallahakar
 salo
-samacar
+samachar
 samadhan
 samagra
 samaj
@@ -3343,8 +3197,8 @@ samajvad
 samajvadi
 samajvadi rajya
 samaksha
-samalocana
-saman
+samalochana
+samman
 saman
 samanta
 samanti
@@ -3374,7 +3228,7 @@ sambhavana
 sambhavatah
 sambhranta
 sambodhan
-samcar
+samchar
 samdhi
 samdhini
 samet
@@ -3398,9 +3252,9 @@ sampurna
 samrat
 samriddha
 samu
-samuccaya
+samucchaya
 samudaya
-samudayavacak nam
+samudayavachak nam
 samudayik
 samudra
 samudra sataha
@@ -3412,11 +3266,11 @@ samyavad
 samyavadi
 san
 sana buva
-sancalan
-sancalan
-sancalit
-sancar
-sancaran
+sanchalan
+sanchalan
+sanchalit
+sanchar
+sancharan
 sanco
 sandarbha
 sandarbha-suci
@@ -3434,14 +3288,14 @@ sanghu
 sangkalan
 sangkalpa
 sangkat
-sangkat
-sangketik
+sankat
+sanketik
 sanglo
 sanguro
 sangyojik
 sangyukta rastra sangh
 sani ama
-sanishcavar
+sanishchavar
 sanivar
 sanjha
 sanjha paryo
@@ -3450,7 +3304,7 @@ sankhyamatrabodhak
 sankramankal
 sano
 sanp
-sanracana
+sanrachana
 sanrakshak
 sanrakshan
 sansad
@@ -3470,14 +3324,13 @@ sansthagat
 sansthan
 sansthapan
 santa
-santa-mahanta
+santa mahanta
 santan
 santanabbe
-santannigraha
-santannirodh
+santan nigraha
+santan nirodh
 santaunna
 santulan
-sanu
 sanu
 sanvaidhanik
 sanvarddhan
@@ -3499,8 +3352,8 @@ sarkar
 sarkari
 sarkari bhasa
 sarnu
-sarnu
-sarp
+saarnu
+sarpa
 sarva
 sarvahara
 sarvajan
@@ -3521,14 +3374,14 @@ sasu
 sasura
 sasuro
 sat
-sat
-sata
+saat
+saataa
 sataha
 satahi
 satani
 satasi
 sataun
-satcalis
+satchalis
 sath
 sathattar
 sathi
@@ -3568,7 +3421,7 @@ shahi
 shahid
 shakta
 shakti
-shaktihina
+shaktihin
 shaktiman
 shaktiparikshan
 shaktishali
@@ -3591,7 +3444,7 @@ shasana
 shasankal
 shasankarta
 shasanpaddhati
-shasan-pranali
+shasan pranali
 shasantantra
 shasit
 shastra
@@ -3600,7 +3453,7 @@ shatabdi
 shatak
 shatru
 shatruta
-shaucalaya
+shauchalaya
 shav
 shayad
 sherpa
@@ -3645,11 +3498,11 @@ simana
 simi
 simit
 sinbi
-sincai
+sinchai
 sincit
 sindur
 sindure
-singgapur
+singapur
 sinha
 sinhasan
 sinki
@@ -3669,7 +3522,7 @@ skulma padhnu
 smaran-patra
 smarika
 smriti
-smriti-patra
+smriti patra
 snan
 snankotha
 so
@@ -3680,8 +3533,8 @@ sohra
 sojho
 somvar
 sopan
-spast
-sresta
+spasta
+srasta
 srot
 srot ra sadhan
 stambha
@@ -3704,10 +3557,9 @@ striling
 stuti
 subista
 subistako
-sucana
-sucanapatra
-suci
-suci
+suchana
+suchanapatra
+suchi
 sudhar
 sudharak
 sudharnu
@@ -3725,11 +3577,11 @@ sun
 sunaulo
 sunaunu
 sundar
-sundha
+sundh
 sungur
 suntala
 suntale
-sunuvar
+sunuwar
 supari
 suraksha
 surakshit
@@ -3747,41 +3599,41 @@ sushri
 susta
 sutne kotha
 sutnu
-sutrapat
+sutrapaat
 suvidha
 suvista
-svabhav
-svabhavatah
-svabhavik
-svaccha
-svad
-svadhin
-svadhinata
-svami
-svar
-svarg
-svargavas
-svarup
-svasni
-svasnimanche
-svasth
-svasthya
-svatah
-svatantra
-svatantrata
-svatantrata divas
-svayam
-svayambhunath
-svayamev
-svayamsevak
-svayang
-svayatta
-svayatta shasan
-svayattashasi
-svayattata
-svikar
-svikrit
-svikriti
+swabhav
+swabhavatah
+swabhavik
+swaccha
+swad
+swadhin
+swadinata
+swami
+swar
+swarga
+swargabas
+swarup
+swasni
+swasnimanche
+swastha
+swasthya
+swatah
+swatantra
+swatantrata
+swatantrata divas
+swayam
+swyambhunath
+swayamev
+swyamsevak
+swayang
+swayatta
+swyatta shasan
+swayattashasi
+swayattata
+swikar
+swikrit
+swikriti
 syal
 syau
 tadha
@@ -3791,16 +3643,15 @@ tai
 taipani
 taja
 tak
-tak
-takaliph
+takliph
 takiya
 takuro
 tal
+taalaa
 tala
-tala
-tala
+talaa
 talak
-talca
+talcha
 talika
 talim
 talkanu
@@ -3819,27 +3670,25 @@ tanda
 tannu
 tansnu
 tap
-tap
+taap
 tapani
 tapari
 tapke
-tar
-tara
-tara
 taranga
-taraph
+tara
+taara
+taranga
 taraph
 tarbuja
 tari khet
 tarika
 tarikh
 tariko sag
-tark
+tarkari
 tarkari
 tarnu
-tarph
-tarph
-tarphbata
+tarpha
+tarphabata
 tarul
 tarun
 taruno
@@ -3851,7 +3700,6 @@ tatastha
 tataunu
 tatha
 tathya
-tato
 tato
 tato pani
 tattva
@@ -3891,7 +3739,6 @@ thamaunu
 thami
 thamyaunu
 thana
-thana
 thanda
 thanda marubhumi
 thannu
@@ -3906,8 +3753,7 @@ theknu
 thicnu
 thik
 thiti
-thiti
-thiti-riti
+thiti riti
 thito
 thople
 thopo
@@ -3929,7 +3775,6 @@ tikho
 tiknu
 til
 tin
-tin
 tinma
 tinma adhi bhanda kehi badhi
 tippani
@@ -3947,12 +3792,12 @@ tori
 torika phul dekhnu
 tran
 tribhuj
-tricalis
+trichalis
 trihattar
 tripanna
 trisatthi
 tritiya purus
-tritiyapurusvacak
+tritiya purus vachak
 triyakalap
 triyanabbe
 triyasi
@@ -3964,13 +3809,13 @@ tupi
 turunta
 tyag
 tyahan
-tyas tak
-tyasai
-tyasaile
-tyaso hunale
-tyasprati
-tyasto
-tyatiko
+tes tak
+tesai
+tesaile
+teso hunale
+tesprati
+testo
+tetiko
 ubhayaling
 ubhinu
 ubhyaunu
@@ -3978,9 +3823,9 @@ ubjani
 ubjanu
 ubjaunu
 ubranu
-ucalnu
-ucca
-ucca parvatiya
+uchalnu
+uccha
+uccha parvatiya
 udaharan
 udaharaniya
 udan
@@ -3991,7 +3836,6 @@ udarvad
 udarvadi
 udas
 udasi
-udaunu
 udaunu
 udaya
 uddesh
@@ -4042,16 +3886,15 @@ umlanu
 ummedvar
 umranu
 un
-unancas
+unanchas
 unannabbe
 unansattari
 unansaya
 unasi
-unca
-uncai
-uncalis
-unco
-unco
+uncha
+unchai
+unchalis
+uncho
 uni kammal
 unmulan
 unnais
@@ -4062,11 +3905,11 @@ unnayak
 unnayan
 unnu
 unsathi
-unta
+unt
 untis
 upabhog
 upabhokta
-upacar
+upachar
 upadesh
 upadhi
 upahar
@@ -4079,7 +3922,7 @@ upalakshya
 upama
 upanisad
 upanisadvadi
-upansanhar
+upasanhar
 upanyas
 upar
 uparastrapati
@@ -4087,7 +3930,7 @@ uparna
 upasabhapati
 upasthiti
 upatya
-upa-usnakatibandhi
+upa usnakatibandhi
 upayog
 upayogita
 upayukta
@@ -4102,7 +3945,6 @@ usinnu
 uso
 uta
 utarnu
-uthal-puthal
 uthaunu
 uthnu
 uti
@@ -4113,7 +3955,7 @@ utpidak
 utpidit
 utpidit varga
 utranu
-utrinu
+utirnu
 utsaha
 utsav
 utsukta
@@ -4124,159 +3966,156 @@ uttaradhikari
 uttardayi
 uttejit
 utthan
-vacan
-vad
-vaicarik
-vaidhanik
-vaishakh
-vajracarya
-vaktavya
-vampanthi
-van biralo
-van upabhokta samuha
-vanbhoja
-vanijya
-vanko dhan
-vansha
-vardan
-varga
-varga mil
-vargahin
-vargahin samaj
-varipari
-varnan
-varsa
-varsa
-varta
-vartalap
-vartaman
-vasanta
-vasi
-vastavik
-vastavikta
-vastu
-vastutah
-vatavaran
-veda
-vela
-veshya
-vibhag
-vibhagiya
-vibhajan
-vibhinna
-vicalan
-vicar
-videsh
-videshi
-videshi sahayata
-vidhan
-vidheyak
-vidhi
-vidhipurvak
-vidhivat
-vidit
-vidroha
-vidvan
-vidya
-vidyabhyas
-vidyalaya
-vidyarambha
-vidyarthi
-vidyarthi gatividhi
-vidyashram
-vidyut
-vigat
-vighatan
-vigyan
-vihina
-vihinata
-vijaya
-vijaya
-vijaya dashami
-vijayi
-vijeta
-vikas
-vikasit
-vikasit
-vikat
-vikendrikaran
-vikhandan
-vikhandit
-vikriti
-vilas
-vilayat
-viman
-vimansthal
-vinash
-vipanna
-viparit
-viphal
-vir
-viraha
-virodh
-viruddha
-visakta
-visalu
-visaya
-visaya-kram
-visayantar
-visayapravesh
-visaya-pravesh
-visayavastu
-vishal
-vishes
-vishes adalat
-vishes nam
-vishesagya
-vishesan
-vishesya
-vishista
-vishva
-vishvas
-vishvasniya
-vishvasniyata
-vishvaspatra
-vishvavidyalaya
-vishvayuddha
-viskambhak
-vismayadibodhak
-visphot
-visphotak
-vistar
-vistarit
-vivad
-vivaha
-vivaran
-vivash
-vividh
-vividhta
-vriddha
-vriddhavastha
-vriddhi
-vrihaspativar
-vriksha
-vriksharopan
-vrisadeva
-vyakhya
-vyakhyan
-vyakta
-vyakti
-vyaktigat
-vyaktitva
-self
-vyaktivacak nam
-vyangya
-vyangya-citra
-vyapar
-vyapta
-vyatha
-vyavahar
-vyavasay
-vyavastha
-vyavasthapan
-vyavasthapika
-vyavasthapit
-vyavasthit
+bachan
+badh
+baicharik
+baidhanik
+baishakh
+bajracharya
+baktavya
+bampanthi
+ban biralo
+ban upabhokta samuha
+banbhoj
+banijya
+banko dhan
+bansha
+bardan
+barga
+barga mil
+bargahin
+bargahin samaj
+baripari
+barnan
+barsa
+barta
+bartalap
+bartaman
+basanta
+basi
+bastavik
+bastavikta
+bastu
+bastutah
+batabaran
+bed
+bela
+beshya
+bibhag
+bibhagiya
+bibhajan
+bibhinna
+bichalan
+bichar
+bidesh
+bideshi
+bideshi sahayata
+bidhan
+bidheyak
+bidhi
+bidhipurbak
+bidhibat
+bidit
+bidroha
+bidban
+bidhya
+bidhyabhyas
+bidhyalaya
+bidhyarambha
+bidhyarthi
+bidhyarthi gatibidhi
+bidhyashram
+bidhyut
+bigat
+bighatan
+bigyan
+bihin
+bihinata
+bijay
+bijaya
+bijaya dashami
+bijayi
+bijeta
+bikas
+bikasit
+bikat
+bikendrikaran
+bikhandan
+bikhandit
+bikriti
+bilas
+bilayat
+biman
+bimansthal
+binash
+bipanna
+biparit
+biphal
+bir
+biraha
+birodh
+biruddha
+bisakta
+bisalu
+bisaya
+bisaya kram
+bisayantar
+bisayaprabesh
+bisaya prabesh
+bisayabastu
+bishal
+bishes
+bishes adalat
+bishes nam
+bishesagya
+bishesan
+bishesya
+bishista
+bishwa
+bishwas
+bishwasniya
+bishwasniyata
+bishwaspatra
+bishwabidyalaya
+bishwayuddha
+biskambhak
+bismayadibodhak
+bisphot
+bisphotak
+bistar
+bistarit
+bibad
+bibaha
+bibaran
+bibash
+bibidh
+bibidhta
+briddha
+briddhabastha
+briddhi
+brihaspatibar
+briksha
+briksharopan
+brisadev
+byakhya
+byakhyan
+byakta
+byakti
+byaktigat
+byaktitba
+byaktibachak nam
+byangya
+byangya chitra
+byapar
+byapta
+byatha
+byabahar
+byabasaye
+byabastha
+byabasthapan
+byabasthapika
+byabasthapit
+byabasthit
 yadyapi
 yagya
 yahan
@@ -4293,24 +4132,22 @@ yasogari
 yasto
 yasto andhyaroma
 yata
-yatauta
+yata uta
 yatayat
-yathavat
-yati
-yatiko
+yathabat
+yeti
+yetiko
 yatra
 yatri
-yatro
+yetro
 yauvan
 yayavar
 yog
-yogadan
-yogaphal
+yogdhan
+yogphal
 yogyata
 yojana
 yug
 yugoslabhiya
-yurop
-yuropeli
 yuva
 yuvati
