@@ -1997,6 +1997,7 @@ _khasi
 _khasnu
 _khasro
 _khat
+_khatra
 _khatam
 _khednu
 _khel

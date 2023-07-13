@@ -1998,6 +1998,7 @@ khasnu
 khasro
 khat
 khatam
+khatra
 khednu
 khel
 kheladi
