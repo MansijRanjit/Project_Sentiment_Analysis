@@ -3626,3 +3626,7 @@ perfect	B-ENG
 Product	O
 is	O
 good	B-ENG
+
+chyaa	B-NEG
+kasto	O
+naramro	B-NEG
