@@ -476,7 +476,6 @@ atyachar
 atyanta
 atyavashyak
 atyukti
-au
 auchitya
 audyogik
 aunlo
@@ -599,7 +598,7 @@ bancharo
 banchnu
 banda bhayo
 banda garnu
-banda bhayo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+banda bhayo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
 bandar
 bandel
 bandhan
@@ -2638,7 +2637,6 @@ panchaunu
 pandhra
 pani
 pani
-pani ... pani
 pani pareka vela
 pani parnu
 paniun
@@ -4184,3 +4182,20 @@ majaley
 thiyo
 chahiye
 kasto
+manparyo
+manparena
+hune
+nahune
+raicha
+bhayera
+nabhayera
+jane
+najane
+gardai
+nagardai
+ekdam
+cha
+timro
+aau
+bhayo
+bhayena

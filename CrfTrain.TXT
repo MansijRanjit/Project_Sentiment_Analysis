@@ -17,7 +17,7 @@ ramrai	B-POS
 lagyo	O
 but	O
 size	O
-thulo	B-POS
+thulo	O
 bhayo	O
 kapada	O
 ma	O
@@ -651,7 +651,7 @@ option	O
 nabhayera	B-NEG
 size	O      
 ali	O      
-thulo	B-POS
+thulo	O      
 bhayo	O      
 otherwise	O      
 price	O      
@@ -1501,15 +1501,13 @@ as	O
 expected	O
 good	B-ENG
 one	O
-man	B-POS
-paryo	I-POS
+manparyo	B-POS
 	
 best	B-ENG
 cha	O
 malai	O
 dherai	B-POS
-man	I-POS
-paryo	I-POS
+manparyo	I-POS
 	
 raincoat	O
 thikai	B-POS
@@ -1595,7 +1593,8 @@ bhanera	O
 liyeko	O
 yesma	O
 ta	O
-1%	O
+1	O
+percent	O
 ni	O
 kaam	O
 garena	O
@@ -2114,8 +2113,8 @@ lagi	O
 chahi	O
 yo	O
 purse	O
-ali	B-NEG
-thulo	I-NEG
+ali	O
+thulo	O
 bhayo	O
 aru	O
 sab	O
@@ -2129,12 +2128,12 @@ cha	O
 but	O
 mero	O
 lagi	O
-ali	B-NEG
-thulo	I-NEG
+ali	O
+thulo	O
 bhayo	O
 	
 lastai	B-NEG
-thulo	I-NEG
+thulo	O
 raicha	O
 size	O
 ma	O
@@ -2257,7 +2256,7 @@ chahi	O
 3	O
 din	O
 lagyo	O
-ali	B-NEG
+ali	O
 delivery	O
 chito	O
 bhako	O
@@ -2309,8 +2308,7 @@ cha	O
 malai	O
 dherai	B-POS
 nai	I-POS
-man	B-POS
-paryo	I-POS
+manparyo	B-POS
 sir	O
 aru	O
 sathi	O
@@ -2460,21 +2458,19 @@ price	O
 hunthiyo	O
 bhane	O
 ajhai	O
-ramro	I-POS
+ramro	B-POS
 	
 nice	B-ENG
 quality	O
 ekdam	B-POS
-man	I-POS
-paryo	I-POS
+manparyo	I-POS
 wife	O
 ko	O
 lagi	O
 leko	O
 uslai	O
 ni	O
-man	B-POS
-paryo	I-POS
+manparyo	B-POS
 fully	B-ENG
 recommended	I-ENG
 	
@@ -2525,8 +2521,7 @@ point	O
 	
 dherai	B-POS
 nai	I-POS
-man	I-POS
-paryo	I-POS
+manparyo	I-POS
 yo	O
 price	O
 range	O
@@ -2561,7 +2556,7 @@ bhayecha	O
 price	O
 tehi	O
 bhayera	O
-ali	B-NEG
+ali	O
 chitta	I-NEG
 dukhyo	I-NEG
 	
@@ -2705,8 +2700,8 @@ ayo	O
 ta	O
 	
 size	O
-ali	B-NEG
-thulo	I-NEG
+ali	O
+thulo	O
 ayo	O
 aru	O
 best	B-ENG
@@ -2730,23 +2725,23 @@ lagyoo	O
 chya	B-NEG
 kasto	O
 naramro	B-NEG
-quality	B-ENG
+quality	O
 	
 dress	O
 is	O
 nice	O
-quality	B-ENG
+quality	O
 ni	O
 dami	B-POS
 but	O
-ali	B-NEG
+ali	O
 size	O
-ali	B-NEG
+ali	O
 sano	O
 bhayo	O
 ani	O
 elastic	O
-ali	B-NEG
+ali	O
 badhi	O
 nai	O
 tight	B-ENG
@@ -2780,8 +2775,7 @@ sister	O
 ko	O
 lagi	O
 ekdam	B-POS
-man	I-POS
-paryo	I-POS
+manparyo	I-POS
 tesaile	O
 feri	O
 purchase	O
@@ -2838,8 +2832,7 @@ majaley	B-POS
 chalcha	O
 	
 ekdam	B-POS
-man	I-POS
-paryo	I-POS
+manparyo	I-POS
 malai	O
 yo	O
 earbud	O
@@ -2948,8 +2941,7 @@ mom	O
 was	O
 happy	B-ENG
 ekdam	B-POS
-man	I-POS
-paryo	I-POS
+manparyo	I-POS
 re	O
 thank	B-ENG
 you	I-ENG
@@ -3123,8 +3115,7 @@ thikai	B-POS
 cha	O
 	
 nice	B-ENG
-man	B-POS
-paryo	I-POS
+manparyo	B-POS
 malai	O
 	
 wow	B-ENG
@@ -3204,8 +3195,7 @@ bho	O
 very	B-ENG
 good	I-ENG
 sarai	B-POS
-man	I-POS
-paryo	I-POS
+manparyo	I-POS
 	
 thikai	B-POS
 cha	O
@@ -3498,8 +3488,7 @@ bhanidinu	O
 pheri	O
 pani	O
 product	O
-man	B-POS
-paryo	I-POS
+manparyo	B-POS
 	
 attinai	B-POS
 dami	I-POS
