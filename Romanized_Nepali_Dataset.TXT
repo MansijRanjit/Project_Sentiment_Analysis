@@ -1920,10 +1920,10 @@ kathinai
 kathit
 kathor
 kati
-kati baje ?
-kati bajyo?
-kati bhayo?
-katima?
+kati baje
+kati bajyo
+kati bhayo
+katima
 katinu
 katipaya
 katnu
@@ -3518,7 +3518,7 @@ siune kal
 siunu
 siyo
 skulma padhnu
-smaran-patra
+smaranpatra
 smarika
 smriti
 smriti patra
